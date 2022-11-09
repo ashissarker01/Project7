@@ -1,0 +1,478 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 700px;
+    width: 1400px;
+    background-color: rgb(150, 233, 233);
+    position: relative;
+
+}
+.france{
+    height: 100px;
+    width: 150px;
+    background-color: red;
+    top: 20px;
+    left: 30px;
+    position: absolute;
+}
+.a{
+    height: 100px;
+    width: 50px;
+    background-color: blue;
+    position: absolute;
+}
+.b{
+    height: 100px;
+    width: 50px;
+    background-color: white;
+    top: 0px;
+    left: 50px;
+    position: absolute;
+}
+.sada{
+    height: 100px;
+    width: 150px;
+    background-color:white;
+    top: 20px;
+    left: 250px;
+    position: absolute;
+}
+.lal{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+   transform: translateX(-50%)translateY(-50%);
+   border-radius: 25px;
+   
+}
+.eu{
+    height: 100px;
+    width: 150px;
+    background-color:#2A5F9E;
+    top: 20px;
+    left: 500px;
+    position: absolute;
+    
+}
+#image{
+    height: 70px;
+    width: 70px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+   transform: translateX(-50%)translateY(-50%);
+   border-radius: 50px;
+}
+
+.maxico{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(0, 255, 13);
+    top: 20px;
+    left: 750px;
+    position: absolute;
+}
+.white{
+    height: 100px;
+    width: 50px;
+    top: 0px;
+    left: 50px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+}
+.reed{
+    height: 100px;
+    width: 50px;
+    top: 0px;
+    left: 100px;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+}
+.indonesia{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    top: 20px;
+    left: 1000px;
+    position: absolute;
+}
+.lall{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(255, 0, 0);
+    top: 0px;
+
+    position: absolute;
+}
+
+.usa{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    top: 200px;
+    left:100px;
+    position: absolute;
+}
+.reda{
+    height: 10px;
+    width: 150px;
+    background-color: red;
+    top: 0px;
+    position: absolute;
+}
+.redb{
+    height: 10px;
+    width: 150px;
+    background-color: red;
+    top: 20px;
+    position: absolute;
+}
+.redc{
+    height: 10px;
+    width: 150px;
+    background-color: red;
+    top: 40px;
+    position: absolute;
+}
+.redd{
+    height: 10px;
+    width: 150px;
+    background-color: red;
+    top: 60px;
+    position: absolute;
+}
+.rede{
+    height: 10px;
+    width: 150px;
+    background-color: red;
+    top: 80px;
+    position: absolute;
+}
+.redf{
+    height: 10px;
+    width: 150px;
+    background-color: red;
+    top: 100px;
+    position: absolute;
+}
+#imagess{
+    height: 60px;
+    width: 70px;
+    position: absolute;
+}
+.italy{
+    height: 100px;
+    width: 150px;
+    background-color: green;
+    top: 200px;
+    left:350px;
+    position: absolute;
+}
+.sadasada{
+    height: 100px;
+    width: 50px;
+    background-color: white;
+    top: 0px;
+    left: 50px;
+    position: absolute;
+}
+.lallal{
+    height: 100px;
+    width: 50px;
+    background-color: red;
+    top: 0px;
+    left: 100px;
+    position: absolute;
+}
+.china{
+    height: 100px;
+    width: 150px;
+   background-color:#D70000;
+    top: 200px;
+    left:600px;
+    position: absolute;
+}
+#chinalogo{
+height: 50px;
+width: 60px;
+
+}
+.saudi{
+    height: 100px;
+    width: 150px;
+   background-color:#006933;
+    top: 200px;
+    left:850px;
+    position: absolute;
+}
+#saudogo{
+height: 80px;
+width: 80px;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+position: absolute;
+
+}
+.canada{
+    height: 100px;
+    width: 150px;
+   background-color:#D70000;
+    top: 200px;
+    left:1100px;
+    position: absolute;
+}
+.sadarong{
+    height: 100px;
+    width: 70px;
+    top: 0px;
+    left: 40px;
+    background-color: white;
+    position: absolute;
+}
+#canada{
+    height: 80px;
+width: 70px;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+position: absolute;
+}
+.india{
+    height: 100px;
+    width: 150px;
+   background-color:#F79431;
+    top: 400px;
+    left:50px;
+    position: absolute;
+}
+.middle{
+    height: 40px;
+    width: 150px;
+   background-color:white;
+    top: 30px;
+    left:0px;
+    position: absolute;
+}
+.laste{
+    height: 30px;
+    width: 150px;
+   background-color:#118407;
+    top: 70px;
+    left:0px;
+    position: absolute;
+}
+#india{
+    height: 40px;
+    width: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+.turkey{
+    height: 100px;
+    width: 150px;
+   background-color:#E30A17;
+    top: 400px;
+    left:270px;
+    position: absolute;
+}
+#turkey{
+    height: 55px;
+    width: 60px;
+    top: 45%;
+    left: 40%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+.germany{
+    height: 100px;
+    width: 150px;
+   background-color:yellow;
+    top: 400px;
+    left:500px;
+    position: absolute;
+}
+.kala{
+    height: 35px;
+    width: 150px;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+.lalmama{
+    height: 35px;
+    width: 150px;
+    background-color:red;
+    top: 35px;
+    left: 0px;
+    position: absolute;
+}
+.russia{
+    height: 100px;
+    width: 150px;
+   background-color:red;
+    top: 400px;
+    left:750px;
+    position: absolute;
+}
+.sadamama{
+    height: 35px;
+    width: 150px;
+    background-color:white;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+.nilmama{
+    height: 35px;
+    width: 150px;
+    background-color:blue;
+    top: 35px;
+    left: 0px;
+    position: absolute;
+}
+.brazil{
+    height: 100px;
+    width: 150px;
+   background-color:#009C37;
+    top: 400px;
+    left:980px;
+    position: absolute;
+}
+#brazil{
+    height: 80px;
+    width: 90px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+.argentina{
+    height: 100px;
+    width: 150px;
+   background-color:#70A7D8;
+    top: 400px;
+    left:1200px;
+    position: absolute;
+}
+.majh{
+    height: 40px;
+    width: 150px;
+    background-color:white;
+    top: 30px;
+    left: 0px;
+    position: absolute;
+}
+#arg{
+    height: 40px;
+    width: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+.england{
+    height: 100px;
+    width: 150px;
+   background-color:#ffffff;
+    top: 550px;
+    left:100px;
+    position: absolute;
+}
+.englanda{
+ height: 100px;
+ width: 20px;
+ background-color: red;
+ top: 0px;
+ left: 65px;
+ position: absolute;
+}
+.englandb{
+    height: 20px;
+    width: 150px;
+    background-color: red;
+    top:40px;
+    left: 0px;
+    position: absolute;
+}
+.australia{
+    height: 100px;
+    width: 150px;
+   background-color:#0066B1;
+    top: 550px;
+    left:350px;
+    position: absolute;
+}
+
+#aus{
+    height: 50px;
+    width: 80px;
+position: absolute;
+}
+#ausaus{
+    height: 50px;
+    width: 80px;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+.switzerland{
+    height: 100px;
+    width: 150px;
+   background-color:red;
+    top: 550px;
+    left:600px;
+    position: absolute;
+}
+.swhite{
+    height: 70px;
+    width: 20px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+.swhitte{
+    height: 20px;
+    width: 70px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+.uganda{
+    height: 100px;
+    width: 150px;
+   background-color:rgb(0, 38, 255);
+    top: 550px;
+    left:900px;
+    position: absolute;
+}
+.yelloww{
+    height: 20px;
+    width: 150px;
+    background-color:yellow;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+.yeelow{
+    height: 100px;
+    width: 20px;
+    background-color:yellow;
+    top: 50%;
+    left: 30%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
